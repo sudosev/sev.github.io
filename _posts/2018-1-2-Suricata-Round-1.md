@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suricata - Round 1!
+title: Signature Dissection - Round 1!
 ---
 
 Recently, I was speaking to [Forgotten](https://twitter.com/forgottensec) and a couple of others regarding the information and guidance available for truly understanding Snort/Suricata signatures.  While documentation and the odd blog post does exist, the more advanced features and lack of context for signatures can become overwhelming rather quickly without guidance.  This post aims to dissect Suricata signatures of various difficulties with explanation of how the signature works.
